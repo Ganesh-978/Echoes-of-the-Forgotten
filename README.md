@@ -103,7 +103,7 @@ Users converse with machine spirits inside an atmospheric CRT terminal. Every re
 
 ### Step A: Clone the Repository
 ```powershell
-git clone https://github.com/Ganesh-978/git-course.git
+git clone https://github.com/Ganesh-978/echoes-of-the-forgotten.git
 cd "Echoes of the forgotten"
 ```
 
