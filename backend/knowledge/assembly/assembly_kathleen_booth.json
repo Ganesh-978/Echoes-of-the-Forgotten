@@ -1,0 +1,10 @@
+{
+  "document_id": "assembly_kathleen_booth",
+  "title": "Kathleen Booth and the Invention of Assembly Language (1947-1950)",
+  "topic": "Early Computer Architecture and Symbolic Mnemonics",
+  "publication_date": "1953-01-01",
+  "source_url": "https://www.bbk.ac.uk/news/remembering-dr-kathleen-booth-computer-pioneer",
+  "source_title": "Birkbeck, University of London: Remembering Dr. Kathleen Booth, Computing Pioneer",
+  "technology": "assembly",
+  "content": "Between 1947 and 1953, Dr. Kathleen Britten Booth worked alongside Andrew Booth at Birkbeck College, University of London, constructing early digital computers including the ARC (Automatic Relay Computer) and SEC (Simple Electronic Computer). Confronted with the exhaustion and error-prone nature of entering raw binary instructions into storage drums, Kathleen Booth authored 'Coding for A.R.C.' in 1947 and published 'Automatic Digital Calculators' in 1953. In these works, she introduced the first operational 'Contracted Notation' and assembly language, utilizing human-readable symbolic mnemonics (like ADD, SUB, and MPY) to represent binary opcodes and memory locations, creating the fundamental assembler abstraction."
+}

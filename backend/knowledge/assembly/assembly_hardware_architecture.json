@@ -1,0 +1,10 @@
+{
+  "document_id": "assembly_hardware_architecture",
+  "title": "Assembly Language: The Indispensable Interface with Bare Metal",
+  "topic": "Microprocessor Registers, Opcodes, and System Bootstrapping",
+  "publication_date": "2018-09-15",
+  "source_url": "https://www.cs.cmu.edu/~fp/courses/15213-s07/lectures/06-asm1.pdf",
+  "source_title": "Carnegie Mellon University: Machine-Level Programming and Assembly Architecture",
+  "technology": "assembly",
+  "content": "Unlike interpreted or high-level compiled languages, assembly code maintains a near one-to-one correspondence with the processor's underlying instruction set architecture (ISA), such as x86-64, ARM, RISC-V, or Motorola 68000. It provides direct, unfiltered control over general-purpose registers (such as RAX, RBX, RCX), stack pointers (RSP), processor status flags, and physical memory offsets. Assembly remains critical for operating system kernel entry points, UEFI/BIOS firmware bootstrapping, interrupt service routines (ISRs), cryptographic primitives requiring constant-time execution without compiler interference, and performance-critical hardware device drivers."
+}

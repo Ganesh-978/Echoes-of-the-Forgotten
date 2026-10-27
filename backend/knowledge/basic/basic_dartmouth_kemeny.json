@@ -1,0 +1,10 @@
+{
+  "document_id": "basic_dartmouth_kemeny",
+  "title": "The Dartmouth Time-Sharing System and the Birth of BASIC (1964)",
+  "topic": "Democratization of Computing and Educational Access",
+  "publication_date": "1964-05-01",
+  "source_url": "https://home.dartmouth.edu/about/history-traditions/birth-basic-and-time-sharing",
+  "source_title": "Dartmouth College: The Birth of BASIC and Time-Sharing at Dartmouth",
+  "technology": "basic",
+  "content": "At 4:00 AM on May 1, 1964, professors John G. Kemeny and Thomas E. Kurtz successfully ran the first simultaneous programs written in BASIC (Beginner's All-purpose Symbolic Instruction Code) on the Dartmouth Time-Sharing System (DTSS) connected to a General Electric GE-225 mainframe. Prior to BASIC, computers were restricted to specialized scientists who submitted batches of punched cards and waited hours or days for printouts. Kemeny and Kurtz envisioned computer literacy as a universal liberal arts competency. BASIC eliminated cryptic syntax in favor of intuitive commands like 'PRINT', 'LET', 'GOTO', and 'FOR...NEXT', and gave each undergraduate student an interactive terminal session where syntax errors were reported instantly."
+}

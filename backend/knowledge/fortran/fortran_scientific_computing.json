@@ -1,0 +1,10 @@
+{
+  "document_id": "fortran_scientific_computing",
+  "title": "FORTRAN's Dominance in Computational Science and Supercomputing",
+  "topic": "High-Performance Numerical Simulations",
+  "publication_date": "2014-03-01",
+  "source_url": "https://www.olcf.ornl.gov/2014/03/03/why-fortran-endures/",
+  "source_title": "Oak Ridge National Laboratory: Why Fortran Endures in Supercomputing",
+  "technology": "fortran",
+  "content": "Even in the era of Python and C++, modern Fortran (Fortran 90, 2008, 2018) remains indispensable across world-class supercomputing facilities such as the Oak Ridge Leadership Computing Facility (OLCF). Core scientific libraries—including BLAS (Basic Linear Algebra Subprograms) and LAPACK (Linear Algebra Package)—were authored in Fortran and continue to form the numerical bedrock underlying NumPy, SciPy, and MATLAB. Fortran excels in high-performance computing because its memory model strictly forbids pointer aliasing by default, allowing optimizing compilers to aggressively unroll loops, vectorize mathematical operations across SIMD pipelines, and achieve near-theoretical peak memory bandwidth for multidimensional fluid dynamics, astrophysics, and climate projections."
+}

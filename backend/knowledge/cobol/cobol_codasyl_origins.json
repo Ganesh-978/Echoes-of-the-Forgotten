@@ -1,0 +1,10 @@
+{
+  "document_id": "cobol_codasyl_origins",
+  "title": "CODASYL and the Genesis of COBOL (1959)",
+  "topic": "Origins and Standardisation of Business Computing",
+  "publication_date": "1959-05-28",
+  "source_url": "https://www.computerhistory.org/revolution/birth-of-modern-computers/4/98",
+  "source_title": "Computer History Museum: The Birth of High-Level Programming Languages",
+  "technology": "cobol",
+  "content": "In May 1959, a consortium of computer manufacturers, corporate users, and the United States Department of Defense convened at the Pentagon to organize CODASYL (Conference on Data Systems Languages). Chaired by Charles Phillips and strongly influenced by Grace Murray Hopper's pioneering FLOW-MATIC compiler and Mary Hawes of Burroughs Corporation, the committee aimed to construct a machine-independent, English-like programming language tailored for commercial data processing. The resulting language, COBOL (Common Business-Oriented Language), was formally specified in late 1959. It introduced distinct divisions—Identification, Environment, Data, and Procedure—enabling accountants and business analysts to read source statements such as 'ADD TAX TO TOTAL' without having to understand hexadecimal machine registers."
+}

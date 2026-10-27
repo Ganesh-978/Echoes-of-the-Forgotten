@@ -1,0 +1,10 @@
+{
+  "document_id": "basic_microcomputer_revolution",
+  "title": "BASIC and the Personal Computer Revolution (1975-1985)",
+  "topic": "Microcomputer Era and Built-in ROM Interpreters",
+  "publication_date": "1975-07-01",
+  "source_url": "https://www.computerhistory.org/revolution/personal-computers/17/297",
+  "source_title": "Computer History Museum: Microcomputers and Software Ecosystems",
+  "technology": "basic",
+  "content": "In 1975, Bill Gates, Paul Allen, and Monte Davidoff developed Altair BASIC for the MITS Altair 8800 microcomputer, fitting a functioning interpreter into less than 4 kilobytes of memory. By the late 1970s and 1980s, customized variants of BASIC were burned directly into the read-only memory (ROM) of millions of home computers, including the Apple II (Applesoft BASIC), Commodore PET and Commodore 64 (Commodore BASIC), and the BBC Micro (BBC BASIC). When users powered on their machines, they were greeted immediately with a READY prompt and a blinking cursor. An entire generation of future software engineers, video game creators, and computer scientists learned computing by typing line-numbered BASIC programs from magazines like BYTE and COMPUTE!."
+}

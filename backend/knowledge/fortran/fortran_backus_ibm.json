@@ -1,0 +1,10 @@
+{
+  "document_id": "fortran_backus_ibm",
+  "title": "John Backus and the Invention of FORTRAN at IBM (1954-1957)",
+  "topic": "Invention of the Optimizing Compiler",
+  "publication_date": "1957-04-15",
+  "source_url": "https://amturing.acm.org/award_winners/backus_0703524.cfm",
+  "source_title": "ACM A.M. Turing Award: John Backus Citation & Biography",
+  "technology": "fortran",
+  "content": "In 1954, computer scientist John W. Backus submitted a proposal to his managers at IBM entitled 'Preliminary Report, Specifications for The IBM Mathematical FORmula TRANslating System, FORTRAN.' At the time, programming computers like the IBM 704 required painstaking hand-coded assembly, and software costs routinely exceeded hardware expenses. Skeptics widely believed that high-level compilers could never generate machine code comparable in execution efficiency to hand-tuned human assembly. Backus and his 10-person team spent three years inventing the world's first true optimizing compiler. Released in April 1957, FORTRAN cut the number of programming statements required by a factor of twenty while producing machine code that ran almost as fast as human-written assembly, permanently launching the software engineering discipline."
+}

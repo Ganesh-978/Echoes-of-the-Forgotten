@@ -1,0 +1,10 @@
+{
+  "document_id": "cobol_banking_legacy",
+  "title": "COBOL in Modern Mainframes and Global Banking Infrastructure",
+  "topic": "Mainframe Persistence and Transaction Processing",
+  "publication_date": "2020-04-10",
+  "source_url": "https://www.reuters.com/article/technology/banks-scramble-to-fix-old-systems-as-coronavirus-surges-idUSKCN21V0QG/",
+  "source_title": "Reuters Special Report: The Global Financial Architecture Built on COBOL",
+  "technology": "cobol",
+  "content": "Despite recurring predictions of its demise, COBOL remains the backbone of global commercial transaction processing. A 2022 survey by the Micro Focus Foundation and IT industry researchers estimated that over 800 billion lines of active COBOL code run daily in enterprise production environments. Approximately 95% of ATM swipes and 70% of global financial transaction systems rely on COBOL routines deployed on IBM zSystems mainframes running z/OS and CICS (Customer Information Control System). COBOL persists due to its fixed-point decimal arithmetic (COMP-3 packed decimal format) which eliminates binary floating-point rounding errors that can corrupt financial ledgers, as well as its massive record-processing throughput."
+}
